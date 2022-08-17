@@ -1,0 +1,1 @@
+This site was projected with GOIT 6-day HTML marathon
